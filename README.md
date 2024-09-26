@@ -1,5 +1,5 @@
-# Develop By : Rahul V
-# Reg No : 212223240133
+# Develop By : sarveshkaran vk
+# Reg No : 212221230089
 # Ex.No:1a                      Study of Socket Programming
 
 ## Aim: 
